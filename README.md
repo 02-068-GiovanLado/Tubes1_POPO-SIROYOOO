@@ -124,7 +124,7 @@ npm run start
 
 ---
 
-## IV. Author
+## III. Author
 
 Kelompok 10 (POPO SIROYOOO)
 
