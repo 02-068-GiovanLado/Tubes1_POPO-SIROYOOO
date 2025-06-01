@@ -28,7 +28,7 @@ Program ini dirancang sebagai bot permainan Diamonds untuk berjalan secara otoma
 
 ---
 
-## II. Requirements dan Instalasi
+## II. Requirements dan Instalasi/Build Program
 
 ### 1. Cara Menjalankan Game Engine
 
